@@ -1,0 +1,14 @@
+## VIDEO SIMULATE
+
+- The presence detector detect a object more than 1 meter
+- Presence < 1 m and Start
+- Introduced weight
+- Select Manual
+- The motor works depend of potentiometre (the use can select the velocity ) 
+- Press the Emergency button
+- STOP
+- DOWNLOAD DATA
+- STANDBY
+- IDENTIFICATION, time expired 15s
+- SELECT MODE, time expired 15s
+- Select Auto
